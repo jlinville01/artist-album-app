@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: Justin Sings The Blues
+  star_rating: 3
+  year_released: 2014
+  artist: one
+
+two:
+  title: One Voice
+  star_rating: 5
+  year_released: 2014
+  artist: two
+
+three:
+  title: My Love Is Your Love
+  star_rating: 4
+  year_released: 2014
+  artist: three
+
+four:
+  title: Merry Christmas
+  star_rating: 5
+  year_released: 2014
+  artist: four

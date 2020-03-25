@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: Justin
+  last_name: Linville
+  gender: M
+
+two:
+  first_name: Barry
+  last_name: Manilow
+  gender: M
+
+three:
+  first_name: Whitney
+  last_name: Houston
+  gender: F
+
+four:
+  first_name: Mariah
+  last_name: Carey
+  gender: F
