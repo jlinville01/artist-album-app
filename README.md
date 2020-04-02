@@ -2,7 +2,7 @@
 
 This application was an assignment for a Santa Monica College server-side ruby course with the purpose of constructing a Rails web application that incorporates a database association.
 
-# Setting up Locally
+# Setup
 
 1. Clone the repo.
 2. `cd /artist-album-app`
@@ -13,7 +13,7 @@ This application was an assignment for a Santa Monica College server-side ruby c
 7. `rake db:seed`
 8. Visit `http://localhost:3000/albums` or `http://localhost:3000/artists`
 
-Run all tests by issuing the command:
+# Run tests
 `rake test:models`
 
 (run `rake db:drop db:create db:migrate db:seed` to reset database)
