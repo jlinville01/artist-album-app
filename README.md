@@ -14,6 +14,6 @@ This application was an assignment for a Santa Monica College server-side ruby c
 8. Visit `http://localhost:3000/albums` or `http://localhost:3000/artists`
 
 # Run tests
-`rake test:models`
+1. `rake test:models`
 
 (run `rake db:drop db:create db:migrate db:seed` to reset database)
