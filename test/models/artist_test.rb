@@ -20,9 +20,9 @@ class ArtistTest < ActiveSupport::TestCase
 		end
 	end
 
-	test "Barry Manilow is found" do
+	test "Michael Jackson is found" do
 	  artist = Artist.find_by_last_name("Manilow")
-	  assert_equal("Manilow", artist.last_name, "last name is not right")
-	  assert_equal("Barry", artist.first_name, "first name is not right")
+	  assert_equal("Michael", artist.last_name, "last name is not right")
+	  assert_equal("Jackson", artist.first_name, "first name is not right")
 	end
 end
