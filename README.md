@@ -15,3 +15,4 @@ This application was an assignment for a Santa Monica College server-side ruby c
 
 Run all tests by issuing the command:
 `rake test:models`
+
