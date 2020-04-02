@@ -16,3 +16,4 @@ This application was an assignment for a Santa Monica College server-side ruby c
 Run all tests by issuing the command:
 `rake test:models`
 
+(run `rake db:drop db:create db:migrate db:seed` to reset database)
