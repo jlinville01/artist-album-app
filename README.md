@@ -1,8 +1,6 @@
 # Artist/Album App
 
-This application was an assignment for a Santa Monica College server-side ruby course with the purpose of constructing a Rails web application that incorporates a database association.
-
-# Setup
+## Setup
 
 1. Clone the repo.
 2. `cd /artist-album-app`
